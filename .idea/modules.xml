@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CorysCheckList/CorysCheckList.iml" filepath="$PROJECT_DIR$/CorysCheckList/CorysCheckList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CorysCheckListProject.iml" filepath="$PROJECT_DIR$/CorysCheckListProject.iml" />
+    </modules>
+  </component>
+</project>
+
