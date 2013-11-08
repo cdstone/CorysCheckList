@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CorysCheckList/CorysCheckList.iml" filepath="$PROJECT_DIR$/CorysCheckList/CorysCheckList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CorysCheckList/CorysCheckList-CorysCheckList.iml" filepath="$PROJECT_DIR$/CorysCheckList/CorysCheckList-CorysCheckList.iml" />
       <module fileurl="file://$PROJECT_DIR$/CorysCheckListProject.iml" filepath="$PROJECT_DIR$/CorysCheckListProject.iml" />
     </modules>
   </component>
